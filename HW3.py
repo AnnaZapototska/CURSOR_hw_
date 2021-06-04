@@ -45,7 +45,6 @@ class Person(Human):
             print(f"You can bought a house.")
 
 
-
 class House:
     def __init__(self, area, cost):
         self.area = area
